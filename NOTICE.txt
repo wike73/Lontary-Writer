@@ -1,0 +1,38 @@
+NOTICE
+LONTARY PROJECT
+
+Project Name: Lontary
+
+License: Wike Adhi Anggono Free & Open Modification License 2026
+
+Copyright © 2026 Wike Adhi Anggono. All Rights Reserved.
+
+1. Project Ownership
+
+Lontary is an original software project developed and maintained by Wike Adhi Anggono.
+
+2. Free to Use
+
+Lontary is free for everyone. Users are permitted to use, copy, distribute, and integrate this software into any operating system without licensing fees.
+
+3. Source Code Freedom
+
+Users are permitted to access, inspect, edit, modify, and develop the source code of Lontary.
+
+4. Attribution
+
+Redistributions and modified versions should retain the original copyright notice and acknowledge the original author:
+
+Original Author: Wike Adhi Anggono
+
+5. Original Copyright
+
+Permission to use, modify, and distribute Lontary does not transfer ownership of the original project or its original copyright.
+
+6. License Terms
+
+All permissions and conditions regarding the use, modification, and redistribution of Lontary are governed by the LICENSE file included in this repository.
+
+Lontary Free to Use. Free to Modify. Free to Integrate.
+
+Copyright © 2026 Wike Adhi Anggono.

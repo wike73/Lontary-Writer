@@ -1,0 +1,33 @@
+WIKE ADHI ANGGONO FREE & OPEN MODIFICATION LICENSE
+
+Copyright © 2026 Wike Adhi Anggono. All Rights Reserved.
+
+1. Free for Everyone
+
+This application is free for anyone to use at no cost, whether for personal, educational, research, or commercial purposes.
+
+2. Freedom to Modify and Edit Code
+
+Users are permitted to view, study, copy, alter, develop, and modify the source code of this application according to their individual needs.
+
+3. Freedom of Integration into Operating Systems
+
+This application may be incorporated, integrated, distributed, or used as part of any operating system without incurring additional licensing fees.
+
+4. Copyright and Attribution
+
+The copyright for the original work of this application remains held by:
+
+Wike Adhi Anggono
+
+Users are permitted to develop and distribute modified versions, but they may not remove or claim copyright ownership over the original work.
+
+5. Terms of Use
+There is no cost to use this application.
+No special permission is required to modify the source code.
+The application may be used and distributed freely.
+Developers of derivative works are encouraged to maintain attribution to the original creator.
+
+Copyright © 2026 Wike Adhi Anggono.
+
+Free to Use. Free to Modify. Free to Integrate. Built for Everyone.
