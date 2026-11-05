@@ -1,33 +1,96 @@
-WIKE ADHI ANGGONO FREE & OPEN MODIFICATION LICENSE
+WIKE ADHI ANGGONO FREE & OPEN MODIFICATION LICENSE (2026)
 
 Copyright © 2026 Wike Adhi Anggono. All Rights Reserved.
 
-1. Free for Everyone
+1. Grant of Free Use
 
-This application is free for anyone to use at no cost, whether for personal, educational, research, or commercial purposes.
+Permission is hereby granted to any individual, organization, or legal entity to use, access, download, install, execute, and utilize this software free of charge.
 
-2. Freedom to Modify and Edit Code
+This permission applies to personal, educational, research, institutional, and commercial purposes.
 
-Users are permitted to view, study, copy, alter, develop, and modify the source code of this application according to their individual needs.
+No licensing fees or royalties are required for the use of this software.
 
-3. Freedom of Integration into Operating Systems
+2. Freedom to Study, Copy, and Modify
 
-This application may be incorporated, integrated, distributed, or used as part of any operating system without incurring additional licensing fees.
+Users are permitted to access, inspect, study, copy, edit, modify, customize, and develop the source code of this software.
 
-4. Copyright and Attribution
+Users may create modified versions, improvements, adaptations, and derivative works based on the original software without requiring prior written permission from the original author.
 
-The copyright for the original work of this application remains held by:
+3. Freedom of Integration
 
-Wike Adhi Anggono
+This software may be freely integrated, incorporated, embedded, or included as part of other software projects, applications, platforms, operating systems, and development environments.
 
-Users are permitted to develop and distribute modified versions, but they may not remove or claim copyright ownership over the original work.
+Such integration is permitted for both personal and commercial purposes without additional licensing fees.
 
-5. Terms of Use
-There is no cost to use this application.
-No special permission is required to modify the source code.
-The application may be used and distributed freely.
-Developers of derivative works are encouraged to maintain attribution to the original creator.
+4. Freedom of Distribution and Redistribution
 
-Copyright © 2026 Wike Adhi Anggono.
+Users are permitted to distribute, publish, share, reproduce, and redistribute the original or modified versions of this software.
 
-Free to Use. Free to Modify. Free to Integrate. Built for Everyone.
+Distribution may be conducted through websites, software repositories, application platforms, commercial products, or other distribution channels.
+
+Redistribution is permitted provided that the copyright and attribution requirements described in this license are respected.
+
+5. Copyright Ownership and Attribution
+
+The original copyright and authorship of this software remain exclusively attributed to:
+
+Original Author and Copyright Holder: Wike Adhi Anggono
+
+Permission to use, modify, integrate, or distribute this software does not transfer ownership of the original work or its original copyright.
+
+Redistributions and modified versions must:
+
+Retain the original copyright notice.
+Preserve this license or include an accessible copy of its terms.
+Acknowledge Wike Adhi Anggono as the original creator of the original software.
+Clearly identify substantial modifications when redistributing modified versions.
+
+Users must not falsely claim to be the original author or claim ownership of the original work.
+
+6. No Additional Licensing Fees
+
+No additional licensing fees, royalties, or payments are required to exercise the permissions granted under this license.
+
+Users may commercially utilize, integrate, develop, and distribute the software, including modified versions, subject to the conditions of this license.
+
+7. Third-Party Components
+
+This license applies only to the original software and materials owned by Wike Adhi Anggono.
+
+Third-party libraries, components, fonts, assets, and other externally licensed materials remain subject to their respective copyright notices and license terms.
+
+Users are responsible for complying with applicable third-party licensing requirements.
+
+8. Disclaimer of Warranty
+
+This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+The original author does not guarantee that the software will be error-free, uninterrupted, or suitable for every intended use.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the original author shall not be held liable for any direct, indirect, incidental, special, or consequential damages arising from the use, modification, distribution, or inability to use this software.
+
+10. License Continuity
+
+This license grants permissions to users subject to its stated conditions.
+
+Redistributions of the original software and modified versions must preserve the applicable copyright notices and license terms.
+
+The original author retains the right to release future versions of the software under updated or different licensing terms.
+
+Such changes do not retroactively remove permissions already granted for previously distributed versions under this license.
+
+11. Acceptance of Terms
+
+By using, modifying, integrating, or distributing this software, users agree to comply with the applicable terms and conditions of this license.
+
+If a user does not agree with these terms, they must refrain from exercising the permissions granted by this license.
+
+LONTARY
+
+Free to Use. Free to Modify. Free to Integrate.
+
+Built for Everyone.
+
+Copyright © 2026 Wike Adhi Anggono. All Rights Reserved.
