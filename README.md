@@ -51,10 +51,9 @@ Wike Adhi Anggono
 
 Creator and Original Developer of Lontary.
 
-<p align="center">
+
 **LONTARY**
-<br>
+
 Free to Use. Free to Modify. Free to Integrate.
-<br><br>
+
 Copyright © 2026 Wike Adhi Anggono.
-</p>
